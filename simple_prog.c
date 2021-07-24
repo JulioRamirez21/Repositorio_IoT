@@ -12,5 +12,4 @@ int main(){
     R = x + y;
     printf("Operación: %d + %d = %d\n", x, y, R);
 
-    return 0;
 }
