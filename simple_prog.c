@@ -11,5 +11,5 @@ int main(){
     scanf("%d+%d", &x, &y);
     R = x + y;
     printf("Operación: %d + %d = %d\n", x, y, R);
-    //no es necesario el return 0
+    return 0; //si era necesario XD pensé que era c++
 }
